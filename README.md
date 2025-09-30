@@ -43,3 +43,6 @@ python PyQt5-Digital_clock.py
 
 ## 📸 Screenshot
 ![Digital Clock Screenshot](https://github.com/codewithvikas96-ui/PyQt5-Digital_clock/blob/ff30673953be07c86d2eb972db60f60655b7ee2a/Screenshot%202025-09-30%20182039.png)
+
+
+
