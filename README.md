@@ -23,4 +23,4 @@ It displays the current system time in real-time with a clean GUI.
 ## 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone 
+git clone Digital_Clock.py
