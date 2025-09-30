@@ -23,4 +23,18 @@ It displays the current system time in real-time with a clean GUI.
 ## 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone Digital_Clock.py
+git clone https://github.com/codewithvikas96-ui/PyQt5-Digital_clock.git
+```
+2. Navigate to the project directory:
+```bash
+cd PyQt5-Digital_clock
+```
+3. Install dependencies:
+```bash
+pip install PyQt5
+```
+4. Run the application:
+```bash
+python PyQt5-Digital_clock.py
+```
+
